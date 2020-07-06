@@ -1,5 +1,5 @@
 Notes:
-Take the raid dump, as its created, and move a copy of it to a custom #location. 
+- [] Take the raid dump, as its created, and move a copy of it to a custom #location. 
 Each time a new dump occurs this should trigger. 
 The format of these files are RaidRoster_<server name>-<date-time>.txt.
     Loop 1:
