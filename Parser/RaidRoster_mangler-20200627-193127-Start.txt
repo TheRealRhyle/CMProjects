@@ -1,0 +1,51 @@
+3	Alexandre	65	Paladin				Yes	
+5	Allak	65	Magician				Yes	
+8	Araushnaee	65	Necromancer				Yes	
+2	Bonq	65	Warrior	Raid Leader			Yes	
+1	Bowflexx	65	Ranger				Yes	
+6	Brigard	65	Ranger				Yes	
+8	Covidninet	65	Monk	Group Leader			Yes	
+4	Crakajak	65	Necromancer				Yes	
+4	Craves	65	Rogue				No	
+3	Curelynx	65	Cleric	Group Leader			Yes	
+3	Dajmalynx	65	Bard				No	
+2	Dalamin	65	Cleric				Yes	
+5	Darthema	65	Bard				Yes	
+1	Fendrell	65	Cleric				No	
+1	Fezz	65	Rogue	Group Leader			Yes	
+6	Furyan	65	Ranger				Yes	
+2	Gaiwan	65	Paladin				Yes	
+8	Geddylee	65	Bard				No	
+4	Heart	65	Beastlord	Group Leader			No	
+4	Iinea	65	Enchanter				No	
+12	Jadbalja	65	Shaman	Group Leader			Yes	
+12	Jarlax	65	Magician				No	
+12	Jarnila	65	Enchanter				No	
+1	Jerik	65	Paladin				Yes	
+7	Kaleesi	65	Shaman				Yes	
+5	Kasc	65	Necromancer	Group Leader			Yes	
+7	Kayatha	65	Druid				No	
+4	Kyrietsu	65	Cleric				No	
+7	Marm	65	Shadow Knight				Yes	
+6	Meazzu	65	Enchanter				Yes	
+2	Morzyck	65	Shadow Knight				Yes	
+6	Naelyian	65	Druid				Yes	
+8	Nalez	65	Monk				Yes	
+7	Neanu	65	Enchanter	Group Leader			Yes	
+1	Norma	65	Druid				Yes	
+8	Petye	65	Monk				Yes	
+2	Redfeather	65	Warrior				Yes	
+6	Rektor	63	Magician				No	
+6	Seass	65	Druid	Group Leader			Yes	
+3	Sidvrath	65	Necromancer				Yes	
+5	Sturgill	65	Shaman				Yes	
+7	Tyryn	65	Warrior				Yes	
+2	Ugdar	65	Warrior	Group Leader			Yes	
+4	Ulrek	65	Druid				Yes	
+8	Vatell	60	Paladin				No	
+5	Villian	65	Enchanter				Yes	
+3	Vraakie	63	Paladin				No	
+7	Waffen	65	Shadow Knight				No	
+1	Wired	65	Bard				No	
+5	Wyzord	65	Wizard				Yes	
+3	Yasstiny	65	Necromancer				Yes	

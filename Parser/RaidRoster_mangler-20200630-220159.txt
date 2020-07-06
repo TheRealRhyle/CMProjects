@@ -1,0 +1,68 @@
+10	Krandor	65	Bard		X	X	Yes	
+6	Twizden	62	Bard		X	X	No	
+9	Dajmalynx	65	Bard				No	
+1	Geddylee	65	Bard	Group Leader			Yes	
+12	Weaser	65	Bard				Yes	
+3	Darthema	65	Bard				Yes	
+4	Heart	65	Beastlord				Yes	
+9	Meatboss	65	Beastlord		X	X	Yes	
+7	Pyrexx	65	Beastlord		X	X	Yes	
+5	Dalamin	65	Cleric				Yes	
+5	Fendrell	65	Cleric	Group Leader			Yes	
+3	Healla	65	Cleric				Yes	
+1	Doctora	65	Cleric				Yes	
+3	Mriu	65	Cleric				Yes	
+1	Curelynx	65	Cleric				Yes	
+6	Yinz	65	Cleric		X	X	Yes	
+3	Bewda	65	Druid				Yes	
+3	Sherpa	65	Druid	Group Leader	X	X	Yes	
+6	Jarmina	65	Druid	Group Leader			Yes	
+6	Kayatha	65	Druid		X	X	Yes	
+9	Naelyian	65	Druid				Yes	
+9	Meazzu	65	Enchanter	Group Leader	X	X	Yes	
+5	Villian	65	Enchanter				Yes	
+5	Blacktears	63	Enchanter		X	X	Yes	
+6	Neanu	65	Enchanter				Yes	
+4	Rektor	64	Magician		X	X	Yes	
+2	Allak	65	Magician				Yes	
+9	Yaetherin	65	Magician		X	X	Yes	
+10	Naecoeht	65	Monk		X	X	Yes	
+10	Petye	65	Monk				Yes	
+8	Tallis	65	Monk				Yes	
+7	Xolox	65	Monk				Yes	
+10	Nalez	65	Monk				Yes	
+11	Covidninet	65	Monk				Yes	
+11	Araushnaee	65	Necromancer				Yes	
+7	Crakajak	65	Necromancer		X	X	Yes	
+8	Sidvrath	65	Necromancer				Yes	
+6	Yasstiny	65	Necromancer				Yes	
+3	Kasc	65	Necromancer		X	X	Yes	
+4	Jerik	65	Paladin		X	X	Yes	
+8	Alexandre	65	Paladin				Yes	
+7	Gaiwan	65	Paladin		X	X	Yes	
+12	Plumbum	65	Ranger	Group Leader	X	X	Yes	
+12	Furyan	65	Ranger				Yes	
+12	Bowflexx	65	Ranger				Yes	
+12	Doomweed	65	Ranger				Yes	
+10	Dosed	65	Ranger				Yes	
+12	Brigard	65	Ranger				Yes	
+10	Craves	65	Rogue	Group Leader			Yes	
+11	Fezz	65	Rogue				Yes	
+4	Siop	65	Shadow Knight		X	X	Yes	
+7	Morzyck	65	Shadow Knight	Group Leader	X	X	Yes	
+9	Marm	65	Shadow Knight				Yes	
+11	Jethrow	65	Shadow Knight	Group Leader				
+2	Waffen	65	Shadow Knight	Group Leader	X	X	Yes	
+1	Jadbalja	65	Shaman				Yes	
+8	Sturgill	65	Shaman				Yes	
+11	Kaleesi	65	Shaman				Yes	
+4	Bitesize	65	Warrior		X	X	Yes	
+11	Ekac	65	Warrior		X	X	Yes	
+1	Ugdar	65	Warrior	Raid Leader	X	X	Yes	
+7	Redfeather	65	Warrior				Yes	
+8	Needsfood	64	Warrior	Group Leader	X	X	Yes	
+2	Keolis	65	Warrior		X		No	
+8	Premature	65	Wizard		X	X	Yes	
+4	Wyzord	65	Wizard	Group Leader	X	X	Yes	
+2	Hewhoshall	61	Wizard		X	X	Yes	
+0	Norma	65	Druid		X		Yes	
