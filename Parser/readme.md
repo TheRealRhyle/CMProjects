@@ -2,10 +2,10 @@ Notes:
 - [ ] Take the raid dump, as its created, and move a copy of it to a custom #location. 
 - [ ] Trigger this move each time a new dump occurs. 
 - [x] The format of these files are RaidRoster_<server name>-<date-time>.txt.
-    Loop 1:
-        Check for RaidRoster file.
-        ifExist move to (#originals) and copy to (#location)
-        Loop
+        Loop 1:
+            Check for RaidRoster file.
+            ifExist move to (#originals) and copy to (#location)
+            Loop
 
     
 2) We have an overlay running on top of eq (much like gina and discord does). When a file pops into CMCustom it triggers the overlay with an editable name field that we can change the dump name plus a field to assign dkp to the dump. Once we submit that data it adjusts the name to (and this is just an example) PlaneofTime-June25-10.txt
